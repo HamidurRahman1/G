@@ -1,4 +1,4 @@
-package graphGUI.style;
+package style;
 
 public class CommonStyle
 {

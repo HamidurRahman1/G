@@ -1,4 +1,4 @@
-package graphGUI.util;
+package util;
 
 import graphGUI.model.Edge;
 import graphGUI.model.Graph;

@@ -1,5 +1,3 @@
-package graphGUI;
-
 import graphGUI.view.View;
 
 import javafx.application.Platform;

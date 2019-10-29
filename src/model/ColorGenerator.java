@@ -1,4 +1,4 @@
-package graphGUI.model;
+package model;
 
 import javafx.scene.paint.Color;
 

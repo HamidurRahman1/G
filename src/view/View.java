@@ -1,4 +1,4 @@
-package graphGUI.view;
+package view;
 
 import graphGUI.controller.Controller;
 import graphGUI.style.CommonStyle;

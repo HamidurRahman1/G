@@ -1,4 +1,4 @@
-package graphGUI.controller;
+package controller;
 
 import graphGUI.model.AlertBox;
 import graphGUI.model.ColorGenerator;
