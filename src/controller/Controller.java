@@ -1,12 +1,12 @@
 package controller;
 
-import graphGUI.model.AlertBox;
-import graphGUI.model.ColorGenerator;
-import graphGUI.model.Edge;
-import graphGUI.model.Graph;
-import graphGUI.model.Vertex;
-import graphGUI.util.Util;
-import graphGUI.view.View;
+import model.AlertBox;
+import model.ColorGenerator;
+import model.Edge;
+import model.Graph;
+import model.Vertex;
+import util.Util;
+import view.View;
 
 import javafx.scene.Cursor;
 import javafx.scene.control.Alert;

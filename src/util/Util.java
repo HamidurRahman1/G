@@ -1,8 +1,8 @@
 package util;
 
-import graphGUI.model.Edge;
-import graphGUI.model.Graph;
-import graphGUI.model.Vertex;
+import model.Edge;
+import model.Graph;
+import model.Vertex;
 import javafx.scene.shape.Circle;
 
 import java.awt.geom.Line2D;

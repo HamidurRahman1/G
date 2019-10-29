@@ -1,8 +1,6 @@
 package view;
 
-import graphGUI.controller.Controller;
-import graphGUI.style.CommonStyle;
-
+import controller.Controller;
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
@@ -19,6 +17,8 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
+
+import style.CommonStyle;
 
 public class View extends Application
 {

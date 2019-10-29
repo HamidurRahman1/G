@@ -1,6 +1,6 @@
-import graphGUI.view.View;
 
 import javafx.application.Platform;
+import view.View;
 
 public class GraphGUI extends View
 {

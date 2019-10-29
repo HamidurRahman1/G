@@ -1,6 +1,6 @@
 package model;
 
-import graphGUI.util.Util;
+import util.Util;
 
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
